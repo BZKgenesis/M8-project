@@ -29,6 +29,7 @@ Le genre de la personne en 2 catégories (une honte en 2025):
 Le niveau d'éducation dans 9 catégories:
 
 - a quitté l'école avant 16 ans
+- a quitté l'école à 16 ans
 - a quitté l'école à 17 ans
 - a quitté l'école à 18 ans
 - a fait un peu d'université mais n'as pas de diplôme ou de certificat
@@ -41,25 +42,25 @@ Le niveau d'éducation dans 9 catégories:
 
 Le pays ou vie actuellement la personne dans 7 catégories:
 
-- Australia
-- Canada
-- New Zealand
-- Other
-- Republic of Ireland
 - UK
+- Canada
+- Republic of Ireland
+- Australia
+- Other
+- New Zealand
 - USA
 
 ### 6. ETHNICITY
 
 L'ethnie de la personne dans 7 catégories:
 
-- Asian
-- Black
 - Mixed-Black/Asian
 - Mixed-White/Asian
-- Mixed-White/Black
 - Other
+- Mixed-White/Black
 - White
+- Asian
+- Black
 
 ## Score NEO-FFI-R
 
