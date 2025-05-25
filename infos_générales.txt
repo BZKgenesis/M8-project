@@ -20,3 +20,11 @@ Les 20 corrélations les plus élevées :
 120    ECSTASY   KETAMINE     0.508329
 52      AMPHET     BENZOS     0.500642
 18     COUNTRY        LSD     0.498263
+
+Sensation Seeking (SS) est le meilleur prédicteur transversal, surtout pour les drogues "alternatives" (LSD, ecstasy, cannabis).
+
+Ouverture à l'expérience (OSCORE) est liée à l’usage de substances exploratoires.
+
+Conscience (CSCORE) et Agréabilité (ASCORE) tendent à protéger contre la consommation.
+
+Impulsivité n’est pas un aussi bon prédicteur qu’attendu, sauf un peu pour la nicotine.
