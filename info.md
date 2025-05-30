@@ -143,6 +143,10 @@ Chaque personne est classé dans 7 catégories différentes pour chaque drogues:
 - CL5 → Used in Last Week
 - CL6 → Used in Last Day
 
+On peut numériser les consommations de drogues car on peut les comparer entre elles:
+
+CL0 < CL1 < CL2 < CL3 < CL4 < CL5 < CL6
+
 ### 14. ALCOHOL
 
 La consommation d'alcool.
